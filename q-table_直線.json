@@ -1,0 +1,254 @@
+{
+    "('stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone')": {
+        "move 1": 12.02207922698871,
+        "turn -1": 9.514906683181003,
+        "turn 1": 10.513173903739476,
+        "move 0": 10.9041766361196
+    },
+    "('stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block')": {
+        "move 1": 3.6543685522223956,
+        "turn -1": 0.035681351372975734,
+        "turn 1": 0.6041197953350084,
+        "move 0": 1.3819277928589953
+    },
+    "('grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block')": {
+        "move 1": -2.2900007076663202,
+        "turn -1": -2.235593387062015,
+        "turn 1": -1.7464236537214173,
+        "move 0": -1.4558542207438339
+    },
+    "('grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block')": {
+        "move 1": -4.040838568126291,
+        "turn -1": -4.071085436025389,
+        "turn 1": -3.089178818724692,
+        "move 0": -3.968030297123142
+    },
+    "('coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone')": {
+        "move 1": 0.6978403248940921,
+        "turn -1": -1.3176384001469057,
+        "turn 1": -1.2887284489969906,
+        "move 0": -1.2248529586274552
+    },
+    "('coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass')": {
+        "move 1": -3.2735139407655423,
+        "turn -1": -3.3933371655471407,
+        "turn 1": -3.3797911116952517,
+        "move 0": -3.1422613052470374
+    },
+    "('coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -2.1721416992101217,
+        "turn -1": -2.9696039899207642,
+        "turn 1": -2.606147242479069,
+        "move 0": -2.9102787198227507
+    },
+    "('grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'diamond_block')": {
+        "move 1": -1.521685826997358,
+        "turn -1": -1.5103612734102627,
+        "turn 1": -1.5106888455295395,
+        "move 0": -1.5078857272687765
+    },
+    "('grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'diamond_block', 'diamond_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block')": {
+        "move 1": -2.2866650905650374,
+        "turn -1": -2.2808516934906793,
+        "turn 1": -2.3425809920277882,
+        "move 0": -1.039299008139615
+    },
+    "('stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block')": {
+        "move 1": 3.758019769585971,
+        "turn -1": 0.9729409304928458,
+        "turn 1": 0.33954641298877586,
+        "move 0": 0.3616086426374771
+    },
+    "('stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block')": {
+        "move 1": 8.797474810806992,
+        "turn -1": 4.143753847463631,
+        "turn 1": 1.5572159452202514,
+        "move 0": 0.49944205945544695
+    },
+    "('stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone')": {
+        "move 1": 9.923857063835781,
+        "turn -1": 2.967234352865421,
+        "turn 1": 28.409427630408604,
+        "move 0": 2.460586238058923
+    },
+    "('stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone')": {
+        "move 1": 20.42770334931854,
+        "turn -1": 6.563905469749084,
+        "turn 1": 8.035566002913013,
+        "move 0": 9.41744252606475
+    },
+    "('stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone')": {
+        "move 1": 18.347158290113182,
+        "turn -1": 7.494023508571775,
+        "turn 1": 7.514932267770003,
+        "move 0": 9.012251219892484
+    },
+    "('coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone')": {
+        "move 1": 7.719009309034156,
+        "turn -1": 1.6077067663546174,
+        "turn 1": 1.7540428946899578,
+        "move 0": 2.0296734535928342
+    },
+    "('coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'diamond_block', 'diamond_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass')": {
+        "move 1": -0.4721053769589035,
+        "turn -1": -0.5715560614455262,
+        "turn 1": 0.9241869028848119,
+        "move 0": -0.39514684473050193
+    },
+    "('coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'diamond_block', 'diamond_block', 'stone', 'stone', 'grass')": {
+        "move 1": 1.6477539101029586,
+        "turn -1": -0.714917040510174,
+        "turn 1": -0.41476916602963165,
+        "move 0": -0.35025226786596564
+    },
+    "('coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'diamond_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -0.685690795125216,
+        "turn -1": -0.4880349396137821,
+        "turn 1": -0.5260201068774212,
+        "move 0": -0.6670140070584856
+    },
+    "('coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'diamond_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -0.5812058184840858,
+        "turn -1": -0.6387167096,
+        "turn 1": -0.6031068840578422,
+        "move 0": -0.4739151878204325
+    },
+    "('coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone')": {
+        "move 1": 1.4870028703323894,
+        "turn -1": 9.857553403320582,
+        "turn 1": 0.8638245501982386,
+        "move 0": 0.8442628679738116
+    },
+    "('coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone')": {
+        "move 1": 0.8217902292731073,
+        "turn -1": 1.5575628070044805,
+        "turn 1": 4.825673684293067,
+        "move 0": 1.558798345818051
+    },
+    "('stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block')": {
+        "move 1": 4.891543588437328,
+        "turn -1": 0.9357021576761382,
+        "turn 1": 2.1810978338022213,
+        "move 0": 2.3798109090649486
+    },
+    "('coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone')": {
+        "move 1": 26.22224746243241,
+        "turn -1": 2.7439478625316664,
+        "turn 1": -0.23465610408074425,
+        "move 0": 1.1700879533999269
+    },
+    "('coal_block', 'coal_block', 'stone', 'stone', 'grass', 'diamond_block', 'diamond_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass')": {
+        "move 1": -0.174919765522,
+        "turn -1": 0.5146287250181991,
+        "turn 1": 0.06478153382521896,
+        "move 0": -0.09962547183542142
+    },
+    "('diamond_block', 'diamond_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass')": {
+        "move 1": 3.0508392678695833,
+        "turn -1": 13.927706946217562,
+        "turn 1": 1.3152659707060192,
+        "move 0": 3.799558810184461
+    },
+    "('coal_block', 'stone', 'stone', 'grass', 'grass', 'diamond_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -0.4757606355226518,
+        "turn -1": -0.6699530927009599,
+        "turn 1": -0.5993647595564279,
+        "move 0": -0.5981386715855904
+    },
+    "('diamond_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -0.19848,
+        "turn -1": -0.227571377263578,
+        "turn 1": -0.36271047232767206,
+        "move 0": -0.2736827640679702
+    },
+    "('grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'diamond_block', 'diamond_block')": {
+        "move 1": -0.2783677776452732,
+        "turn -1": -0.6930058921197976,
+        "turn 1": -0.8360414689088929,
+        "move 0": -0.7026257428033043
+    },
+    "('grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'diamond_block', 'diamond_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block')": {
+        "move 1": 1.3774734249348124,
+        "turn -1": -1.3346078150856706,
+        "turn 1": -1.2063389590900286,
+        "move 0": -1.1559379797610996
+    },
+    "('grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'diamond_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block')": {
+        "move 1": -1.2498067664023766,
+        "turn -1": -1.406766052804983,
+        "turn 1": -1.3112415792062466,
+        "move 0": -1.3079158849742394
+    },
+    "('stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block')": {
+        "move 1": 15.665634869404556,
+        "turn -1": 4.435231896178548,
+        "turn 1": 2.4412289604897133,
+        "move 0": 0.880466393762655
+    },
+    "('stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block')": {
+        "move 1": 5.657882448502237,
+        "turn -1": 3.081649991331977,
+        "turn 1": 29.478206147809153,
+        "move 0": 12.203982902706962
+    },
+    "('stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone')": {
+        "move 1": 31.09956201800589,
+        "turn -1": 9.789499384285,
+        "turn 1": 9.108088367263464,
+        "move 0": 4.359215526980041
+    },
+    "('coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'diamond_block', 'diamond_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass', 'coal_block', 'coal_block', 'stone', 'stone', 'grass')": {
+        "move 1": -0.4487829308420423,
+        "turn -1": -0.4600441926642887,
+        "turn 1": -0.011995972588665645,
+        "move 0": -0.41696851680233954
+    },
+    "('grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'diamond_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block')": {
+        "move 1": -0.45662989340626836,
+        "turn -1": -0.5142888570562305,
+        "turn 1": -0.5231710423581629,
+        "move 0": -0.4966417464386632
+    },
+    "('stone', 'diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone')": {
+        "move 1": 98.9895075710221,
+        "turn -1": 0.0,
+        "turn 1": 3.1344991946473493,
+        "move 0": 0.0
+    },
+    "('grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'diamond_block', 'grass', 'grass', 'stone', 'stone', 'coal_block')": {
+        "move 1": -1.5995266510807165,
+        "turn -1": -1.4348756520813215,
+        "turn 1": -1.6225191702155304,
+        "move 0": -1.6379805826681357
+    },
+    "('diamond_block', 'diamond_block', 'diamond_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone', 'coal_block', 'coal_block', 'coal_block', 'stone', 'stone')": {
+        "move 1": 42.693008082919135,
+        "turn -1": 9.919921690702985,
+        "turn 1": 2.9132484146600475,
+        "move 0": 0.0
+    },
+    "('coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'diamond_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass', 'coal_block', 'stone', 'stone', 'grass', 'grass')": {
+        "move 1": -0.12553491115448076,
+        "turn -1": -0.43991757874979287,
+        "turn 1": -0.3677062330129158,
+        "move 0": -0.3816869259700003
+    },
+    "('grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'diamond_block', 'diamond_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block')": {
+        "move 1": -0.4313066598912364,
+        "turn -1": -0.3410131032920437,
+        "turn 1": -0.0005207319219513729,
+        "move 0": -0.3485992214220072
+    },
+    "('grass', 'grass', 'stone', 'stone', 'diamond_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block', 'grass', 'grass', 'stone', 'stone', 'coal_block')": {
+        "move 1": -0.45384209283484345,
+        "turn -1": -0.36708078391893006,
+        "turn 1": -0.45937380000000005,
+        "move 0": -0.4129420928348434
+    },
+    "('grass', 'stone', 'stone', 'diamond_block', 'diamond_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block', 'grass', 'stone', 'stone', 'coal_block', 'coal_block')": {
+        "move 1": -0.08753038394711353,
+        "turn -1": -0.15686199270538054,
+        "turn 1": -0.1468752848358067,
+        "move 0": -0.11917993070114259
+    }
+}

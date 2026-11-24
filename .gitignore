@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# YOLO cache
+*.cache
+
+# Large video files
+*.avi
+
+# Redundant model weights
+yolov8n.pt
+**/last.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

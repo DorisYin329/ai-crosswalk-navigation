@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['8', 'crosswalk', 'road', 'sidewalk']
+
+roboflow:
+  workspace: tobby-rwxns
+  project: yolorl
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tobby-rwxns/yolorl/dataset/7
